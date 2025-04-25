@@ -1,4 +1,4 @@
-# learn-github
+# Learn-Github
 
 **Repositório didático criado para a aula "GitHub4Women", uma iniciativa da WoMakersCode em parceria com a Microsoft e o GitHub**
 
